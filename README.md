@@ -1,9 +1,9 @@
-
+![alt text](banner.png)
 <!--
 **BetulCengiz/BetulCengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi 👋, I'm Betul</h1>
+
 <h3 align="left">A passionate developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betulcengiz&label=Profile%20views&color=0e75b6&style=flat" alt="betulcengiz" /> </p>
