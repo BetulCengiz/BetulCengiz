@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Generative AI,Prompt Engineering,Speech Processing**
 
 - 🌱 I'm currently learning **Generative Artificial Intelligence, I'm more interested in RAG**
-- 
+  
 - 📫 How to reach me **cengizzbetul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
