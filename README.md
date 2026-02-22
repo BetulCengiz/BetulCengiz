@@ -1,11 +1,10 @@
-![alt text](profil.webp)
 
 <!--
 **BetulCengiz/BetulCengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1zhW4ELjETE2FXShmm0-IexYq3iluZ7PK/view?usp=sharing" align="center" style="width: 100%" />
+<img src="profil.webp" align="center" style="width: 100%" />
 </div>  
   
 
