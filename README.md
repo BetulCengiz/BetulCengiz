@@ -1,4 +1,4 @@
-![alt text](banner.png)
+![alt text](profil.webp)
 
 <!--
 **BetulCengiz/BetulCengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
