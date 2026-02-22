@@ -17,7 +17,7 @@
 - 💻While my primary focus is AI, I maintain a strong Backend foundation to build robust production environments. I also enjoy Frontend development as a hobby, which allows me to create intuitive interfaces for my AI-driven projects.  
   
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="13%">
 
 ### Frontend  
 <div align="center">  
