@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-<img src="profil.webp" align="center" style="width: 30%" />
+<img src="profil.webp" align="center" style="width: 10%" />
 </div>  
   
 
